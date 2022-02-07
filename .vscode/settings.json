@@ -1,0 +1,46 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": [
+    "source.fixAll.format",
+    "source.fixAll.eslint",
+    "source.fixAll.markdownlint"
+  ],
+  "editor.detectIndentation": true,
+  "editor.formatOnSave": true,
+  "editor.insertSpaces": true,
+  "css.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.tabSize": 2,
+  "cSpell.words": [
+    "cloin",
+    "Cursored",
+    "ESNOTE",
+    "groq",
+    "hotspot",
+    "mainimage",
+    "Overriden",
+    "Prefetch",
+    "prerendered",
+    "preval",
+    "Quickquote",
+    "quickquotes",
+    "Quickread",
+    "Quickreads",
+    "Signup",
+    "smarthernews",
+    "sonarjs",
+    "Vercel",
+    "Videopost",
+    "Videoposts",
+    "videoseries",
+    "youtube"
+  ],
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "mikestead.dotenv",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "2gua.rainbow-brackets",
+        "formulahendry.auto-rename-tag",
+        "dbaeumer.vscode-eslint",
+        "nhoizey.gremlins",
+        "vscode-icons-team.vscode-icons",
+        "rvest.vs-code-prettier-eslint",
+        "davidanson.vscode-markdownlint",
+        "bradlc.vscode-tailwindcss"
+    ]
+}
